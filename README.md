@@ -1,6 +1,8 @@
 ### Hi there, I am Jesica! 🤓👋
+* * *
 
 _Scholarship Holder at [BMW Group]{https://www.linkedin.com/company/bmw-group/}_
+
 _Working Student at [Rohde & Schwarz]{https://www.linkedin.com/company/rohde-&-schwarz/}_
 
 <!--

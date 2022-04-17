@@ -1,8 +1,7 @@
 ### Hi there, I am Jesica! 🤓👋
 * * *
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/brigittajesica)
-&nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/brigittajesica)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/brigittajesica)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brigittajesica)
 
 _Scholarship Holder at [BMW Group](https://www.linkedin.com/company/bmw-group/)_
 

@@ -1,9 +1,12 @@
 ### Hi there, I am Jesica! 🤓👋
 * * *
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/brigittajesica)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/brigittajesica)
 
-_Scholarship Holder at_ [BMW Group]{https://www.linkedin.com/company/bmw-group/}
+_Scholarship Holder at [BMW Group](https://www.linkedin.com/company/bmw-group/)_
 
-_Working Student at_ [Rohde & Schwarz]{https://www.linkedin.com/company/rohde-&-schwarz/}
+_Working Student at [Rohde & Schwarz](https://www.linkedin.com/company/rohde-&-schwarz/)_
 
 <!--
 **brigittajesica/brigittajesica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

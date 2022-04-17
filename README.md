@@ -1,9 +1,9 @@
 ### Hi there, I am Jesica! 🤓👋
 * * *
 
-_Scholarship Holder at [BMW Group]{https://www.linkedin.com/company/bmw-group/}_
+_Scholarship Holder at_ [BMW Group]{https://www.linkedin.com/company/bmw-group/}
 
-_Working Student at [Rohde & Schwarz]{https://www.linkedin.com/company/rohde-&-schwarz/}_
+_Working Student at_ [Rohde & Schwarz]{https://www.linkedin.com/company/rohde-&-schwarz/}
 
 <!--
 **brigittajesica/brigittajesica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

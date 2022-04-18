@@ -1,11 +1,9 @@
 ### Hi there, I am Jesica! 🤓👋
+
+I am an electrical engineering student at the [Technical University of Munich](https://www.tum.de/en/), currently a scholarship holder at [BMW Group](https://www.linkedin.com/company/bmw-group/) and working student at [Rohde & Schwarz](https://www.linkedin.com/company/rohde-&-schwarz/)
 * * *
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/brigittajesica)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brigittajesica)
-
-_Scholarship Holder at [BMW Group](https://www.linkedin.com/company/bmw-group/)_
-
-_Working Student at [Rohde & Schwarz](https://www.linkedin.com/company/rohde-&-schwarz/)_
 
 <!--
 **brigittajesica/brigittajesica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

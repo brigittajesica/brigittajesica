@@ -1,6 +1,6 @@
 ### Hi there, I am Jesica! 🤓👋
 
-I am an electrical engineering student at the [Technical University of Munich](https://www.tum.de/en/), currently a scholarship holder at [BMW Group](https://www.linkedin.com/company/bmw-group/) and working student at [Rohde & Schwarz](https://www.linkedin.com/company/rohde-&-schwarz/)
+I am studying electrical engineering at the **[Technical University of Munich](https://www.tum.de/en/)**, and currently a scholarship holder at **[BMW Group](https://www.linkedin.com/company/bmw-group/)** and working student at **[Rohde & Schwarz](https://www.linkedin.com/company/rohde-&-schwarz/)**.
 * * *
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/brigittajesica)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brigittajesica)

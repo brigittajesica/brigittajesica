@@ -7,13 +7,14 @@ Scholarship holder at **[BMW Group](https://www.linkedin.com/company/bmw-group/)
 Working student, developing tests at **[Rohde & Schwarz](https://www.linkedin.com/company/rohde-&-schwarz/)**.
 
 🤖 In my studies, I specialize in automation and robotics. I'm passionate about using AI and data science to provide data-driven innovations.
-
+<br>
+<br>
 ## ✉️ Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/brigittajesica)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brigittajesica)
-\
-\
+<br>
+<br>
 ## 💻  Things I code with:
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://python.org)

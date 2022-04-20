@@ -1,10 +1,10 @@
 # Hi there, I am Jesica! 🤓👋
 
-🌱 I am studying electrical engineering at the **[Technical University of Munich](https://www.tum.de/en/)**. 
+🌱 I am studying electrical engineering at the **[Technical University of Munich](https://www.tum.de/en/)**
 
 Scholarship holder at **[BMW Group](https://www.linkedin.com/company/bmw-group/)** 
 
-Working student, developing tests at **[Rohde & Schwarz](https://www.linkedin.com/company/rohde-&-schwarz/)**.
+Working student, developing tests at **[Rohde & Schwarz](https://www.linkedin.com/company/rohde-&-schwarz/)**
 
 🤖 In my studies, I specialize in automation and robotics. I'm passionate about using AI and data science to provide data-driven innovations.
 <br>
